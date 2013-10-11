@@ -9,7 +9,7 @@ Color Flip
   2. Enter the HEX value leading with #
   3. Hit enter to get RGBa
 
-Selected text can also be flipped with ctrl + 9
+Selected text can also be flipped with ctrl + shift + 9
 
 
 ####RGB(a) to #HEX
@@ -17,7 +17,7 @@ Selected text can also be flipped with ctrl + 9
   2. Enter the RGB(a) value leading with rgb...
   3. Hit enter to get #HEX
 
-Selected text can also be flipped with ctrl + 3
+Selected text can also be flipped with ctrl + shift + 3
 
 
 
